@@ -9,10 +9,10 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Rowad For Software Development</title>
+        <title>GSM DevOps For Software Development</title>
         <meta
           name="description"
-          content="Rowad provides innovative software solutions including web development, hosting, and digital marketing. Partner with us for your digital growth needs."
+          content="GSM DevOps provides innovative software solutions including web development, hosting, and digital marketing. Partner with us for your digital growth needs."
         />
         <link rel="canonical" href={currentUrl} />
       </Helmet>

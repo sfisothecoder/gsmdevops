@@ -34,7 +34,7 @@ const HomeHero = () => {
                 data-aos-delay="200"
                 className="text-3xl sm:text-4xl font-semibold"
               >
-                R<span className="text-secondary">O</span>WAD For Software
+                GSM<span className="text-secondary">Dev</span>Ops For Software
                 Development
               </h1>
               <h3

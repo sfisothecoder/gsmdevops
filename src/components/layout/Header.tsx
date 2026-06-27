@@ -50,8 +50,8 @@ export function Header() {
               <div className="relative w-10 h-10 rounded-xl overflow-hidden glow-sm">
                 <Image
                   priority
-                  src="/images/RowadLogo/Rowad_Icon_Round.png"
-                  alt="Rowad Logo"
+                  src="/images/RowadLogo/gsm_icon_round.png"
+                  alt="GSM DevOps Logo"
                   fill
                   className="object-contain"
                   sizes="40px"
@@ -59,11 +59,11 @@ export function Header() {
               </div>
               <div className="flex items-baseline">
                 <span className="font-heading font-bold text-2xl text-slate-900 dark:text-white transition-colors">
-                  R
+                  Dev
                 </span>
                 <span className="font-heading font-bold text-2xl gradient-text">O</span>
                 <span className="font-heading font-bold text-2xl text-slate-900 dark:text-white transition-colors">
-                  WAD
+                  ps
                 </span>
               </div>
             </motion.div>

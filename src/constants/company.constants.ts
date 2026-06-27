@@ -2,12 +2,12 @@
  * Company Information Constants
  */
 export const CompanyConstants = {
-  NAME: 'Rowad',
-  FULL_NAME: 'Rowad For Software Development',
+  NAME: 'GSM DevOps',
+  FULL_NAME: 'GSM DevOps',
   TAGLINE: 'Transform Your Business with Digital Excellence',
   DESCRIPTION:
     'We specialize in reliable and secure website hosting, developing and deploying high-quality, responsive websites, and creating innovative digital marketing strategies.',
-  EMAIL: 'info@rowad.com',
+  EMAIL: 'info@gsmdevops.com',
   PHONE: '+20 109 1539 396',
   PHONE_HREF: '+201091539396',
   WHATSAPP: 'https://wa.me/201091539396',

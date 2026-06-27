@@ -67,19 +67,19 @@ export function Footer() {
               <div className="relative w-12 h-12 rounded-2xl overflow-hidden shadow-lg group-hover:scale-110 transition-transform duration-300">
                 <Image
                   priority
-                  src="/images/RowadLogo/Rowad_Icon_Round.png"
-                  alt="Rowad Logo"
+                  src="/images/RowadLogo/gsm_icon_round.png"
+                  alt="GSM DevOps Logo"
                   fill
                   className="object-contain"
                 />
               </div>
               <div className="flex items-baseline tracking-tighter">
                 <span className="font-heading font-bold text-2xl text-slate-900 dark:text-white">
-                  R
+                  Dev
                 </span>
                 <span className="font-heading font-bold text-2xl text-orange-500">O</span>
                 <span className="font-heading font-bold text-2xl text-slate-900 dark:text-white">
-                  WAD
+                  ps
                 </span>
               </div>
             </Link>
