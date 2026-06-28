@@ -7,7 +7,7 @@ const Services = () => {
   return (
     <>
       <Helmet>
-        <title>Rowad | Our Services</title>
+        <title>GSM DevOps | Our Services</title>
         <meta
           name="description"
           content="Explore our range of digital solutions, including web hosting, development, and marketing strategies. Discover how Rowad can help grow your business."

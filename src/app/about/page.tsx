@@ -124,7 +124,7 @@ export default function AboutPage() {
                 <div className="absolute inset-0 flex items-center justify-center flex-col">
                   <div className="w-24 h-24 mb-6 rounded-2xl bg-white/[0.05] border border-white/[0.1] flex items-center justify-center relative overflow-hidden">
                     <Image
-                      src="/images/RowadLogo/Rowad_Icon_Round.png"
+                      src="/images/RowadLogo/gsm_logo_main.png"
                       alt="Icon"
                       width={64}
                       height={64}

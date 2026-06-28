@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <>
       <Helmet>
-        <title>Rowad | Projects</title>
+        <title>GSM DevOps | Projects</title>
         <meta name="description" content=""/>
         <link rel="canonical" href={currentUrl} />
       </Helmet>

@@ -137,8 +137,8 @@ export function HeroSection() {
             <div className="relative z-10 w-72 h-72 rounded-[2.5rem] overflow-hidden glass-card glow-orange flex items-center justify-center border-slate-200 dark:border-white/[0.08] shadow-2xl shadow-orange-500/10 dark:shadow-none">
               <div className="absolute inset-0 bg-gradient-to-br from-orange-500/10 to-transparent" />
               <Image
-                src="/images/RowadLogo/Rowad_Logo_Main.png"
-                alt="Rowad For Software Development"
+                src="/images/RowadLogo/gsm_logo_main.png"
+                alt="GSM DevOps"
                 width={280}
                 height={280}
                 className="object-contain relative z-10 p-8 drop-shadow-2xl"

@@ -11,10 +11,10 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>Rowad | About Us</title>
+        <title>GSM DevOps | About Us</title>
         <meta
           name="description"
-          content="Discover Rowad For Software Development's mission and vision. Learn how our innovative digital solutions can help your business thrive."
+          content="Discover GSM DevOps's mission and vision. Learn how our innovative digital solutions can help your business thrive."
         />
         <link rel="canonical" href={currentUrl} />
       </Helmet>

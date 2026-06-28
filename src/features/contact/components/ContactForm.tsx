@@ -48,10 +48,10 @@ export default function ContactForm() {
         <p className="mt-2 text-sm text-amber-600 dark:text-amber-400">
           Please email us directly at{' '}
           <a
-            href="mailto:info@rowad.com"
+            href="mailto:info@gsmdevops.com"
             className="font-medium text-amber-700 underline dark:text-amber-300"
           >
-            info@rowad.com
+            info@gsmdevops.com
           </a>
           .
         </p>

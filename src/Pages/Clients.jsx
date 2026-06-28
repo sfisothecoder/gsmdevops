@@ -7,10 +7,10 @@ const Clients = () => {
   return (
     <>
       <Helmet>
-        <title>Rowad | Our Clients</title>
+        <title>GSM DevOps | Our Clients</title>
         <meta
           name="description"
-          content="See how Rowad For Software Development partners with diverse clients to drive innovation and success across industries."
+          content="See how GSM DevOps partners with diverse clients to drive innovation and success across industries."
         />
         <link rel="canonical" href={currentUrl} />
       </Helmet>

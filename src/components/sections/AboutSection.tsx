@@ -143,15 +143,16 @@ export function AboutSection() {
               <div className="w-16 h-16 relative flex-shrink-0">
                 <Image
                   priority
-                  src="/images/RowadLogo/Rowad_Icon_Round.png"
-                  alt="Rowad"
+                  src="/images/RowadLogo/gsm_icon_round.png"
+                  alt="GSM DevOps"
                   fill
                   className="object-contain"
                   sizes="64px"
+                  
                 />
               </div>
               <div>
-                <p className="font-heading font-bold text-white text-lg">Rowad Tech</p>
+                <p className="font-heading font-bold text-white text-lg"> DevOps</p>
                 <p className="text-slate-400 text-sm">Your trusted digital partner since day one</p>
               </div>
             </div>

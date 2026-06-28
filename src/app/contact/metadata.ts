@@ -2,16 +2,16 @@ import type { Metadata } from 'next';
 import { CompanyConstants } from '@constants';
 
 export const contactMetadata: Metadata = {
-  title: 'Contact Us - Get a Free Consultation | Rowad Software Development',
+  title: 'Contact Us - Get a Free Consultation | GSM DevOps Software Development',
   description:
-    'Get in touch with Rowad for Software Development. Request a free consultation for your web development, mobile app, AI chatbot, digital marketing, or web hosting project. Located in Alexandria, Egypt - serving clients worldwide.',
+    'Get in touch with GSM DevOps for Software Development. Request a free consultation for your web development, mobile app, AI chatbot, digital marketing, or web hosting project. Located in Alexandria, Egypt - serving clients worldwide.',
   keywords: [
-    'contact rowad',
-    'rowad consultation',
+    'contact gsmdevops',
+    'gsmdevops consultation',
     'software development quote',
     'web development quote',
     'contact software company',
-    'rowad alexandria',
+    'gsmdevops alexandria',
     'software company contact',
     'get website quote',
     'mobile app development quote',
@@ -21,28 +21,28 @@ export const contactMetadata: Metadata = {
   openGraph: {
     title: 'Contact Us - Get a Free Consultation',
     description:
-      'Get in touch with Rowad for Software Development. Request a free consultation for your next digital project.',
-    url: 'https://rowad.com/contact',
-    siteName: 'Rowad for Software Development',
+      'Get in touch with GSM DevOps for Software Development. Request a free consultation for your next digital project.',
+    url: 'https://gsmdevops.com/contact',
+    siteName: 'GSM DevOps for Software Development',
     type: 'website',
     images: [
       {
-        url: '/images/RowadLogo/Rowad_Logo_Main.png',
+        url: '/images/RowadLogo/gsm_logo_main.png',
         width: 1200,
         height: 630,
-        alt: 'Contact Rowad for Software Development',
+        alt: 'Contact GSM DevOps for Software Development',
         type: 'image/png',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Contact Rowad - Get a Free Consultation',
+    title: 'Contact GSM DevOps - Get a Free Consultation',
     description:
-      'Get in touch with Rowad for your next web development, mobile app, or digital project.',
-    images: ['/images/RowadLogo/Rowad_Logo_Main.png'],
+      'Get in touch with GSM DevOps for your next web development, mobile app, or digital project.',
+    images: ['/images/RowadLogo/gsm_logo_main.png'],
   },
   alternates: {
-    canonical: 'https://rowad.com/contact',
+    canonical: 'https://gsmdevops.com/contact',
   },
 };

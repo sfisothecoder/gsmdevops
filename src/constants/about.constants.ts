@@ -2,7 +2,7 @@
  * About Section Constants
  */
 export const AboutConstants = {
-  TITLE: 'Why Choose Rowad?',
+  TITLE: 'Why Choose GSM DevOps?',
   SUBTITLE: 'We are your strategic partner in digital transformation.',
   OUR_STORY_TITLE: 'Our Story',
   MISSION_TITLE: 'Our Mission',
