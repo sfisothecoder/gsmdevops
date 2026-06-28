@@ -3,17 +3,20 @@ import { Helmet } from "react-helmet-async";
 import ClientsPagination from "../components/ClientsPagination";
 
 const Clients = () => {
-  const currentUrl = window.location.href;
   return (
     <>
       <Helmet>
         <title>GSM DevOps | Our Clients</title>
         <meta
           name="description"
-          content="See how GSM DevOps partners with diverse clients to drive innovation and success across industries."
+          content="See how GSM DevOps partners with businesses across industries to deliver software development, DevOps, cloud, and digital transformation solutions."
         />
-        <link rel="canonical" href={currentUrl} />
+        <link
+          rel="canonical"
+          href="https://yourdomain.com/clients"
+        />
       </Helmet>
+
       <ClientsPagination />
     </>
   );

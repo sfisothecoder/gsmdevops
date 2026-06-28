@@ -7,7 +7,6 @@ import Mission from "../components/Mission";
 import { Helmet } from "react-helmet-async";
 
 const About = () => {
-  const currentUrl = window.location.href;
   return (
     <>
       <Helmet>
@@ -16,8 +15,12 @@ const About = () => {
           name="description"
           content="Discover GSM DevOps's mission and vision. Learn how our innovative digital solutions can help your business thrive."
         />
-        <link rel="canonical" href={currentUrl} />
+        <link
+          rel="canonical"
+          href="https://yourdomain.com/about"
+        />
       </Helmet>
+
       <AboutHero />
       <WhoWeAre />
       <WhatWeDo />
